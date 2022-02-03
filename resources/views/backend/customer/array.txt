@@ -1,0 +1,22 @@
+['Ark Computer Systems','RYANS IT LTD(BARISAL)','Apple computer System','FAMOUS COMPUTER','Unique Computer','Nexus Computer','Computer Expert','Smart Computer','TechSmart']
+
+
+['Computer Village_AGB','Ryans IT Ltd (Chattogram)','COMPUTER VILLAGE (Chattogram)','JANANI COMPUTERS','Hossain Electronics & Computer','Nano Compute','IT PALACE','POWER LINE COMPUTER','Ananda Computers','Pc Point Computers''CREATIVE COMPUTER','Nyta Computer & Technologies','Global Touch','Success Computers','Aditya Multimedia','COMPUTER LAND','Dynamic Computers & Technology','Royal Computer'
+'G TECH-FENI Retail Store','Ryans_CTG_Agrabad','Computer Village_GEC','Janani Computers_Agrabad','Janani Computers_GEC','Star Tech & Engineering Ltd','Hossain Electronics & Computer','IT Palace','GLOBL COMPUTER BD.'	,'TECHNOLOGY TODAY','IMAGINE COMPUTER','G Tech','Ananda Computers','Jahan Computer'	,'Comuter Care Technology','IT Village','PC Net Computers']	
+
+
+cumilla = ['Hossain Electronics & Computer','JAHAN COMPUTER'];
+
+
+['ASUS Exclusive Shop (AES)','Ryans IT Ltd (IDB)','Star Tech & Engineering Ltd','Netstar Pvt. Ltd','ONESTOP SERVICE & SOLUTION','COMPUTER SOURCE LTD','COMPUTER VILLAGE (IDB)','COMPUTER VILLAGE (Elephent Road)','DOLPHIN COMPUTER','BUSINESS LINK','RS Computers System','Technology Park','Daffodil Computers Ltd','Computer Archives IT Service & Solution','SMART VIEW COMPUTERS & ELECTRONICS','COMTRADE','TECHNO PALACE','TCS COMPUTER SERVICES LTD','TECHLAND','SOFTECH SYSTEMS & NETWORKS','CDS IT LTD','INFORMATICS LTD','Techno Care Computers Ltd','R-one Computers','THREE STAR TRADING','SYS COMPUTER','Fastrack Solutions','Laptop care and Technology','BASIC TECHNOLOGIES','CREATUS COMPUTER','MASTER IT SOLUTION','THREE STAR COMPUTER','ORANGE COMPUTER','MASHNOONS COMPUTER','ELECTRONIC CONCEPT','INSPIRE COMPUTER & TECHNOLOGY','BEACON COMPUTER DOT COM','Tech Republic','COMPUTER LAND','LYCEUM COMPUTERS','Navigation Service Solution','Ryans_Banani','Ryans_Uttara','Ryans_Elephant Road','Ryans_Shantinagar','Star Tech & Engineering Ltd. Pragati Sharani Branch','Star Tech & Engineering Ltd. Gazipur Branch','Star Tech & Engineering Ltd. Multiplan Branch','Star Tech & Engineering Ltd. IDB Branch','Star Tech & Engineering Ltd. Uttara Branch','Star Tech & Engineering Ltd. Multiplan Branch - 2','Navigation Service Solution','Fastrack Solution','ONE STOP Service @Solution','DOLPHIN COMPUTER LTD','RS Computer System','Daffodil Computer','COMTRADE','TCS COMPUTER SERVICE LTD','CDS IT','NETSTAR','Eastern IT','Sys Computer Ltd','NS Computer & Engineering','Four Star IT','National Computer','MONARCH IT LIMITED','INDEX IT LIMITED','NEXUS']
+
+khulna = ['M.A Computer','Arpanet-jSR','Ashu Computer-Jsr','Power Point Computer','Satkhira Net Service','Trust Computer']
+
+mymen = ['Kona Computer','SUCCESS COMPUTER & ENGINEERS','PALASH COMPUTERS','Ryans_MYMENSINGH','REGENCY TECHNOLOGIES (BD)'];
+
+['RYANS IT LIMITED (BOGRA)','RYANS IT LIMITED (Rajshahi)','KHAN COMPUTERS','JAZZ TECH COMPUTER','Imagine Computer & Solution','Tasnuva Computer','COBITE COMPUTER','CELL COMPUTER-Rajshahi','PIXELS PVT. LTD','NEW COMDEX SYSTEM SOLUTION','Rony Electronics & Computer','SR LAPTOP SHOWROOM','Laptop City-Rajshahi','Blueridge Technologies','COMPUTER FAIR','PIXELS PVT. LTD-Rajshahi','Laptop City-Rajshahi','Jazz Tech Computer','Cobite Computer','CELL COMPUTER','Imagine Computer & Solution','Takeplus Computers','WAVE TEK-BOGRA','SH Computer - Bogra','LYCEUM COMPUTERS-Rajshahi','Digicom Technologies - Pabna'];
+
+rangpur = ['Solmon's Computer Sales & Service','RYANS IT LIMITED (Rangpur)','SILICON COMPUTERS','SEEGATE TECHNOLOGY','SOLMONS COMPUTER','Star Tech & Engineering Ltd. Rangpur Branch','SEEGATE TECHNOLOGY-RANGPUR','Silicon Computer','Trust Computer-Rangpur']   
+
+sylhet = ['HIFI COMPUTER - SYLHET','CHIEF TECHNOLOGY-SYLHET','CHIEF TECHNOLOGY','HIFI COMPUTER','SKY LINK COMPUTERS','HI TECH COMPUTER-SYLHET','GENIUS TECHNOLOGY','PERFECT COMPUTER','MILLENIUM COMPUTER','Chief Technology','Unique computer','HI TECH COMPUTER-SYLHET'];
+

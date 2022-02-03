@@ -1,0 +1,73 @@
+@font-face {
+    font-weight: 400;
+    font-style:  normal;
+    font-family: 'Circular-Loom';
+    src: url('https://cdn.loom.com/assets/fonts/circular/CircularXXWeb-Book-cd7d2bcec649b1243839a15d5eb8f0a3.woff2') format('woff2');
+  }
+@font-face {
+    font-weight: 500;
+    font-style:  normal;
+    font-family: 'Circular-Loom';
+    src: url('https://cdn.loom.com/assets/fonts/circular/CircularXXWeb-Medium-d74eac43c78bd5852478998ce63dceb3.woff2') format('woff2');
+  }
+@font-face {
+    font-weight: 700;
+    font-style:  normal;
+    font-family: 'Circular-Loom';
+    src: url('https://cdn.loom.com/assets/fonts/circular/CircularXXWeb-Bold-83b8ceaf77f49c7cffa44107561909e4.woff2') format('woff2');
+  }
+@font-face {
+    font-weight: 900;
+    font-style:  normal;
+    font-family: 'Circular-Loom';
+    src: url('https://cdn.loom.com/assets/fonts/circular/CircularXXWeb-Black-bf067ecb8aa777ceb6df7d72226febca.woff2') format('woff2');
+  }
+body {
+    font-family: 'Circular-Loom';
+}
+p{
+  font-weight: 400!important;
+}
+.title{
+  font-size:24px;
+  line-height:1.4em;
+}
+.laptop-service-img{
+  width:50%;
+}
+.homepage-wrapper{
+    min-height:90vh;
+}
+.what-is-wep-text{
+    line-height: 1.6em;
+    font-size: 16px;
+    font-weight: 400!important;
+    color:#333;
+}
+.btn-custom{
+  min-width: 40%;
+}
+.signup-text-link{
+    color:#ff6600;
+}
+.card-header h4{
+  margin: 0px !important;
+  padding: 0px !important;
+  letter-spacing: 2px;
+  font-size: 20px;
+  text-transform: uppercase;
+}
+.card-footer p{
+  margin: 0px !important;
+  padding: 0px !important;
+}
+/* MOBILE VIEW */
+@media only screen and (max-width: 600px) {
+  .homepage-wrapper{
+    padding:0px 20px;
+  }
+  .btn-custom{
+    margin-bottom:10px;
+    min-width:100%;
+  }
+}
